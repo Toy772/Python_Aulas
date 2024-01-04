@@ -20,9 +20,13 @@ git merge <nome brench>................................................     - ju
 
 git clone <link github>................................................     - copia todos os arquivos do repositorio github para maquina
 
-git pull...............................................................     - atualiza os arquivos da maquina com o do repositorio (baixa os arquivos do repositorio pendentes)
+git pull...............................................................     - atualiza os arquivos da maquina com o do repositorio baixa os arquivos do repositorio pendentes
 
+git log --oneline......................................................     - visualiza commits hashs (codigo do commit e descricao)
 
+git push origin +<codigo commit>^:<brench>.............................     -deleta commits no repositorio
+
+git reset HEAD~<qnt de commits a voltar>...............................     -reseta para o ultimo commit ou desejado
 
 documentacao do python
 https://docs.python.org/pt-br/3/library/stdtypes.html
