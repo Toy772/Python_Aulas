@@ -14,7 +14,7 @@ print('---------------------')
 
 # For + Range
 # range -> range(start,stop,step)
-
+# range -> range(stop)
 # ----------------------------------------------------
 
 numbers = range(0, 32 ,2)
