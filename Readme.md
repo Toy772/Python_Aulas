@@ -2,7 +2,7 @@
 
 git init...............................................................     - inicializa um repositorio vazio
 
-git add <nome arquivo> ou <.> para todos...............................     - adiciona arquivo ao repositorio
+git add <nome arquivo> ou <.> para todos...............................     - adiciona arquivo ao git
 
 git status.............................................................     - visualiza o status do git 
 
