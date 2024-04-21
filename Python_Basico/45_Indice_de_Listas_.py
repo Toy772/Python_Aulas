@@ -15,4 +15,5 @@ print('--------')
 
 for i in indice:
     print( i , lista[i], type(lista[i]))
- 
+
+

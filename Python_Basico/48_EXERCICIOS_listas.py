@@ -1,5 +1,5 @@
 # faça uma lista de compras com listas
-# o usuario dece ter a possibilidade de 
+# o usuario pode ter a possibilidade de 
 # insirir, apagar e listar valores de sua lista
 # Nao permita que o programa quebre com 
 # erros de indices inexistentes na lista.
